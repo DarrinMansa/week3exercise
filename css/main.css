@@ -17,7 +17,7 @@ nav {
 a {
 	color: #808080;
 }
-
+/*Hover effect for links*/
 li:hover {
 	background-color: #fff;
 	border-style: dotted;
@@ -29,6 +29,13 @@ li:hover {
 
 section {
 	text-align: center;
+}
+/*The cottent of this selector gets rid of grey edge on button*/
+button {
+	border: none;
+    padding: 0;
+    background: none;
+    font-size: 1em;
 }
 
 .red {
@@ -57,7 +64,7 @@ section {
 	padding-right: 40px;
 	border-radius: 7px;
 }
-
+/*Hover effects for my buttons*/
 .red:hover {
 	background-color: #EA4367; 
 }
