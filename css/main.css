@@ -1,0 +1,11 @@
+ /* Cascading Style Sheets */
+div {
+	background-color: black;
+	height: 150px;
+	margin-bottom: 10px;
+	display: block;
+}
+
+/*display: block*/
+/*it always starts on a new line*/
+/*it takes up the FULL width of the space available*/
